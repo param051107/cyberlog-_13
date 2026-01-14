@@ -1,16 +1,52 @@
-# cyberlog
+CyberLog – Secure Offline-First Logging App
 
-A new Flutter project.
+CyberLog is a Flutter-based cybersecurity log app with offline-first support, optional Firebase login, and automatic cloud sync.
+It works with or without internet, ensuring logs are never lost.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+✅ Optional Login (Firebase Auth)
 
-A few resources to get you started if this is your first Flutter project:
+Email & Password authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+App works even if login is skipped
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💾 Offline-First Architecture
+
+Logs stored locally using Hive
+
+App never crashes without internet
+
+☁️ Automatic Cloud Sync (Firestore)
+
+Syncs logs when user logs in
+
+Syncs automatically when internet is available
+
+Uses user UID for secure storage
+
+🗑️ Log Management
+
+Add logs
+
+Delete logs with confirmation
+
+Visual sync status (local / cloud)
+
+🎨 Clean Dark UI
+
+Cyber-security inspired design
+
+Simple and beginner-friendly layout
+
+📱 Screens
+
+Splash Screen
+
+Login / Register / Skip
+
+Cyber Logs Screen
+
+Add Log Dialog
+
+Delete Confirmation Dial
