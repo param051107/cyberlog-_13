@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801715214948",
+    "project_id": "assignment-13-b067b",
+    "storage_bucket": "assignment-13-b067b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801715214948:android:623e315546bb29bab51d71",
+        "android_client_info": {
+          "package_name": "com.example.cyberlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFudjBtrJ2rtcgWs3uOoGihDeA6N3C2qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801715214948:android:241e1adccb2dd5f8b51d71",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFudjBtrJ2rtcgWs3uOoGihDeA6N3C2qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
